@@ -1,0 +1,285 @@
+.img1 {
+    border-radius: 90%;
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+    left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.element {
+    transition: width 2s, height 2s, transform 2s;
+
+}
+
+h4:hover {
+    background-color: yellow;
+}
+
+p:hover {
+    background-color: greenyellow;
+}
+
+.element:hover {
+    transform: rotate(360deg);
+}
+
+.h2 {
+    margin-top: 15%;
+    width: 80px;
+    margin-left: 7%;
+    margin-bottom: 3%;
+}
+
+.bg-wrapper {
+    background-image: url(./food_image.jpeg);
+    background-size: cover;
+    height: 55vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-title {
+    text-transform: uppercase;
+    margin-top: 1.5em;
+}
+
+.showcase-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 1.6rem;
+}
+
+.divCon {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.container {
+    width: 30%;
+    height: 250px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    justify-content: center;
+    transition: all 0.5s ease-in-out;
+}
+
+.container:hover {
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.03);
+    border-color: rgb(76, 138, 6);
+    transform: scale(1.05);
+    background-color: grey
+}
+
+.centre {
+    text-align: center;
+    margin-top: 5%;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    color: #2C2C51;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img3 {
+    width: 280px;
+    height: 225px;
+    left: 183px;
+    top: 481px;
+}
+
+.imgg1 {
+    width: 230px;
+    height: 180px;
+    left: 183px;
+    top: 481px;
+}
+
+.imggg1 {
+    width: 350px;
+    height: 250px;
+
+}
+
+.container0 {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #F7F7F7;
+    width: 26%;
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    justify-content: space-evenly;
+    border-top: 5px solid green;
+    transition: all 0.5s ease-in-out;
+}
+
+.container0:hover {
+    box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.03);
+    border-color: rgb(76, 138, 6);
+    transform: scale(1.05);
+    background-color: rgb(196, 194, 194)
+}
+
+.card0 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: left;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15%;
+}
+
+.container00 {
+    width: 30%;
+}
+
+.pp {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+}
+
+.card00 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: left;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+header {
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer {
+    border-radius: 0px;
+    background-color: #F8F9F9;
+}
+
+.p {
+    margin: 0%;
+    color: #677294;
+
+}
+
+p {
+    margin-top: 1%;
+    color: #677294;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.sp {
+    margin-left: 15%;
+    margin-top: 1%;
+    color: #128312;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.p2 {
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 15%;
+}
+
+.placeholderColor {
+    color: green;
+}
+
+li {
+    display: flex;
+    list-style-type: none;
+    margin: 0 18px;
+}
+
+ul {
+    display: flex;
+}
+
+h3 {
+    margin: 0%;
+    text-align: center;
+}
+
+h4 {
+    color: #2C2C51;
+    font-family: 'Poppins', sans-serif;
+}
+
+.lll {
+    border-top: 2px solid #E4E1EA;
+}
+
+.ss {
+    justify-content: space-evenly;
+}
+
+.divCon00 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.centre1 {
+    text-align: center;
+    margin-top: 9%;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    color: #2C2C51;
+}
+
+.container-b {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.center {
+    text-align: center;
+    margin-top: 6%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    color: #2C2C51;
+}
